@@ -13,7 +13,7 @@ https://adventofcode.com/2022
 │   │
 │   ├── src
 │   |   ├── AoC.java
-│   |   └── Day1.java
+│   |   ├── Day1.java
 │   |   └── ...   
 ...
 
