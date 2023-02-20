@@ -11,7 +11,7 @@ https://adventofcode.com/2022
 │   |   ├── day_02.txt
 │   |   └── ...      
 │   │
-│   └── src
+│   ├── src
 │   |   ├── AoC.java
 │   |   └── Day1.java
 │   |   └── ...   
