@@ -5,6 +5,7 @@ https://adventofcode.com/2022
 ```
 .
 ├── ...
+│
 │   ├── input
 │   │   ├── day_01.txt
 │   |   ├── day_02.txt
